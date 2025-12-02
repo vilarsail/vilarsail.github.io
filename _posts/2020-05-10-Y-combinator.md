@@ -1,7 +1,7 @@
 ---
 layout: article
 title: 一步步推导Y combinator
-tags: lisp
+tags: 计算机
 aside:
   toc: true
 
